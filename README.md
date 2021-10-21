@@ -32,6 +32,9 @@ Compile and Run -
 g++ Q2.cpp -lGL -lGLU -lglut
 ./a.out
 ```
+To run Q2 without Supersampling -
+    Comment out Lines: 116-120 and 33-46
+
 Output -
 
 ## Midpoint Circle Drawing Algorithm 
