@@ -21,7 +21,7 @@ Compile and Run -
 g++ Q1.cpp -lGL -lGLU -lglut
 ./a.out
 ```
-Output -
+Output -  
 ![Line](https://github.com/saurabhburewar/Assignments_OpenGL-Algos/blob/main/Results/Line.png)
 
 ## Triangle rasterization and supersampling
@@ -36,7 +36,7 @@ g++ Q2.cpp -lGL -lGLU -lglut
 To run Q2 without Supersampling -
     Comment out Lines: 116-120 and 33-46
 
-Output -
+Output -  
 ![Triangle](https://github.com/saurabhburewar/Assignments_OpenGL-Algos/blob/main/Results/Triangle.png)
 
 ## Midpoint Circle Drawing Algorithm 
@@ -48,5 +48,5 @@ Compile and Run -
 g++ Q3.cpp -lGL -lGLU -lglut
 ./a.out
 ```
-Output -
+Output -  
 ![Circle](https://github.com/saurabhburewar/Assignments_OpenGL-Algos/blob/main/Results/Circle.png)
